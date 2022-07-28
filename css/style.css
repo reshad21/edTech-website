@@ -19,13 +19,3 @@ ul {
   position: relative;
   filter: grayscale(60%);
 }
-@media (max-width: 767px) {
-  .custome {
-    display: none;
-  }
-}
-@media (max-width: 576px) {
-  .custome {
-    display: none;
-  }
-}
