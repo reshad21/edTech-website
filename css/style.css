@@ -3,3 +3,14 @@ ul {
   padding: 0;
   list-style: none;
 }
+
+@media (max-width: 767px) {
+  .custome {
+    display: none;
+  }
+}
+@media (max-width: 576px) {
+  .custome {
+    display: none;
+  }
+}
